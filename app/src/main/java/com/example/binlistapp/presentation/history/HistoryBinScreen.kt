@@ -81,7 +81,7 @@ fun HistoryBinScreen(
                         copyToClipboard(
                             context = context,
                             label = "",
-                            text = history.bin
+                            text = history.bin,
                         )
                     }
                 )
